@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TEST 技術文章2 on Stanley&#39;s Liva Hugo Theme</title>
-    <link>https://st383123.github.io.git/categories/test-%E6%8A%80%E8%A1%93%E6%96%87%E7%AB%A02/</link>
+    <link>https://st383123.github.io/categories/test-%E6%8A%80%E8%A1%93%E6%96%87%E7%AB%A02/</link>
     <description>Recent content in TEST 技術文章2 on Stanley&#39;s Liva Hugo Theme</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
-    <atom:link href="https://st383123.github.io.git/categories/test-%E6%8A%80%E8%A1%93%E6%96%87%E7%AB%A02/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://st383123.github.io/categories/test-%E6%8A%80%E8%A1%93%E6%96%87%E7%AB%A02/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://st383123.github.io.git/blog/test/</link>
+      <link>https://st383123.github.io/blog/test/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://st383123.github.io.git/blog/test/</guid>
+      <guid>https://st383123.github.io/blog/test/</guid>
       <description>&lt;p&gt;以下寫 markdown&lt;/p&gt;</description>
     </item>
   </channel>
