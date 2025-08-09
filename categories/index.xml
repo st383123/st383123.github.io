@@ -2,59 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Stanley&#39;s Liva Hugo Theme</title>
-    <link>https://github.com/st383123/st383123.github.io.git/categories/</link>
+    <link>https://st383123.github.io.git/categories/</link>
     <description>Recent content in Categories on Stanley&#39;s Liva Hugo Theme</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
-    <atom:link href="https://github.com/st383123/st383123.github.io.git/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://st383123.github.io.git/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go Language</title>
-      <link>https://github.com/st383123/st383123.github.io.git/categories/go-language/</link>
+      <link>https://st383123.github.io.git/categories/go-language/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://github.com/st383123/st383123.github.io.git/categories/go-language/</guid>
+      <guid>https://st383123.github.io.git/categories/go-language/</guid>
       <description></description>
     </item>
     <item>
       <title>HTML</title>
-      <link>https://github.com/st383123/st383123.github.io.git/categories/html/</link>
+      <link>https://st383123.github.io.git/categories/html/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://github.com/st383123/st383123.github.io.git/categories/html/</guid>
+      <guid>https://st383123.github.io.git/categories/html/</guid>
       <description></description>
     </item>
     <item>
       <title>HTML &amp; CSS</title>
-      <link>https://github.com/st383123/st383123.github.io.git/categories/html--css/</link>
+      <link>https://st383123.github.io.git/categories/html--css/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://github.com/st383123/st383123.github.io.git/categories/html--css/</guid>
+      <guid>https://st383123.github.io.git/categories/html--css/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming Language</title>
-      <link>https://github.com/st383123/st383123.github.io.git/categories/programming-language/</link>
+      <link>https://st383123.github.io.git/categories/programming-language/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://github.com/st383123/st383123.github.io.git/categories/programming-language/</guid>
+      <guid>https://st383123.github.io.git/categories/programming-language/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://github.com/st383123/st383123.github.io.git/categories/python/</link>
+      <link>https://st383123.github.io.git/categories/python/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://github.com/st383123/st383123.github.io.git/categories/python/</guid>
+      <guid>https://st383123.github.io.git/categories/python/</guid>
       <description></description>
     </item>
     <item>
       <title>TEST 技術文章</title>
-      <link>https://github.com/st383123/st383123.github.io.git/categories/test-%E6%8A%80%E8%A1%93%E6%96%87%E7%AB%A0/</link>
+      <link>https://st383123.github.io.git/categories/test-%E6%8A%80%E8%A1%93%E6%96%87%E7%AB%A0/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://github.com/st383123/st383123.github.io.git/categories/test-%E6%8A%80%E8%A1%93%E6%96%87%E7%AB%A0/</guid>
+      <guid>https://st383123.github.io.git/categories/test-%E6%8A%80%E8%A1%93%E6%96%87%E7%AB%A0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TEST 技術文章2</title>
+      <link>https://st383123.github.io.git/categories/test-%E6%8A%80%E8%A1%93%E6%96%87%E7%AB%A02/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://st383123.github.io.git/categories/test-%E6%8A%80%E8%A1%93%E6%96%87%E7%AB%A02/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Design</title>
-      <link>https://github.com/st383123/st383123.github.io.git/categories/web-design/</link>
+      <link>https://st383123.github.io.git/categories/web-design/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>https://github.com/st383123/st383123.github.io.git/categories/web-design/</guid>
+      <guid>https://st383123.github.io.git/categories/web-design/</guid>
       <description></description>
     </item>
   </channel>
